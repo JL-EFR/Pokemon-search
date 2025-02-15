@@ -1,0 +1,17 @@
+.card {
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px black;
+    border-radius: 10px;
+}
+.card:hover{
+    background-color: #c5c5c5;
+    transition: 0.5s;
+}
+.imageCard {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
